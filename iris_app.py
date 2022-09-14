@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 import plotly.graph_objects as go
 import plotly.express as px
-from tensorflow import keras
+#from tensorflow import keras
 
 # Read data
 @st.cache
